@@ -6,6 +6,13 @@
 #### CODE URL : [github.com/bropal404/zomabot](https://github.com/bropal404/zomabot)
 ---
 
+```bash
+# to run make an .env with following contents
+GOOGLE_API_KEY="your_google_key_here"
+TELEGRAM_BOT_TOKEN="your_telegram_token_here"
+TELEGRAM_CHAT_ID="your_chat_id_here"
+```
+
 ## 1. Executive Summary
 
 This report documents the development of  an AI-powered customer support agent for food delivery operations. The agent demonstrates core Agentic AI principles: autonomous decision-making, tool utilization, and stateful conversation management using **LangGraph**
