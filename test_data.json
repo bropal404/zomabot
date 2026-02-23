@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "user_input": "Where is my food? It's been too long.",
+    "context": {
+      "time_placed": "14:00",
+      "items": "Chicken Biryani (nv), Coke (d)",
+      "eta": "15 mins",
+      "status": "Out for Delivery"
+    }
+  },
+  {
+    "id": 2,
+    "user_input": "The coke spilled all over the bag!",
+    "context": {
+      "time_placed": "13:30",
+      "items": "Burger (v), Coke (d), Fries (v)",
+      "eta": "0 mins",
+      "status": "Delivered"
+    }
+  },
+  {
+    "id": 3,
+    "user_input": "I ordered Veg Pizza but got Chicken!",
+    "context": {
+      "time_placed": "19:00",
+      "items": "Farmhouse Pizza (v), Garlic Bread (v)",
+      "eta": "0 mins",
+      "status": "Delivered"
+    }
+  },
+  {
+    "id": 4,
+    "user_input": "The rider is being extremely rude and threatening me.",
+    "context": {
+      "time_placed": "20:00",
+      "items": "Sushi Platter (nv)",
+      "eta": "5 mins",
+      "status": "Out for Delivery"
+    }
+  },
+  {
+    "id": 5,
+    "user_input": "Cancel my order, I put the wrong address.",
+    "context": {
+      "time_placed": "10:05",
+      "items": "Coffee (d), Bagel (v)",
+      "eta": "20 mins",
+      "status": "Preparing"
+    }
+  },
+  {
+    "id": 6,
+    "user_input": "My app crashed and I was charged twice.",
+    "context": {
+      "time_placed": "Unknown",
+      "items": "Unknown",
+      "eta": "Unknown",
+      "status": "Payment Failed"
+    }
+  },
+  {
+    "id": 7,
+    "user_input": "Is the Paneer Tikka spicy?",
+    "context": {
+      "time_placed": "Not ordered yet",
+      "items": "Paneer Tikka (v) in cart",
+      "eta": "N/A",
+      "status": "Browsing"
+    }
+  },
+  {
+    "id": 8,
+    "user_input": "Missing fries from the bag.",
+    "context": {
+      "time_placed": "12:00",
+      "items": "Burger (nv), Fries (v), Shake (d)",
+      "eta": "0 mins",
+      "status": "Delivered"
+    }
+  },
+  {
+    "id": 9,
+    "user_input": "Change delivery instruction: Leave it at the gate.",
+    "context": {
+      "time_placed": "14:10",
+      "items": "Sandwich (v)",
+      "eta": "10 mins",
+      "status": "Out for Delivery"
+    }
+  },
+  {
+    "id": 10,
+    "user_input": "Food is ice cold. Inedible.",
+    "context": {
+      "time_placed": "18:00",
+      "items": "Pasta (v)",
+      "eta": "0 mins",
+      "status": "Delivered"
+    }
+  }
+]
